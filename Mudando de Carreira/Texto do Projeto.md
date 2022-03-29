@@ -13,4 +13,6 @@ Mudar é um ato de se arriscar, e quando s e diz respeito a mudança profissiona
 Estudar 5 anos em engenharia não é fácil. Imagine passar anos procurando emprego no setor e não ter sucesso. O engenheiro é uma profissional desenvolvido para pensar com lógica. E porque não seguir outra carreira?Uma carreira que tem vínculo com a sua formação, ou não, é desafiador. O novo é desafiador.
 
 Sou engenheira Química mudando de carreira para o setor de tecnologia :desktop_computer:
-Orientada por alguns profissionais da área de T.I, estou traçando minha carreira na área. Aproveitando todos os cursos online, bootcamps disponíveis, cursos de empresas e por fim entrando de cara no curso superior de Análise e Desenvolvimento de Sistemas.
+Orientada por alguns profissionais da área de T.I, estou traçando minha carreira na área. Aproveitando todos os vastos recurso e cursos online, bootcamps disponíveis, cursos de empresas e por fim entrando de cara no curso superior de Análise e Desenvolvimento de Sistemas.
+
+Não é fácil, abdicar da carreira e tentar outra,mas ficar parado e esperar que em meio a uma crise econômica surja uma vaga na área de engenharia é um pouco fora da realidade. Com todos esses fatores e com uma noção básica o que se trata da área de T.I e programação,vamos rumo ao aprendizado diário, desenvolvimento de uma nova carreira e futuramente e bem próxima um nova oportunidade de emprego.
