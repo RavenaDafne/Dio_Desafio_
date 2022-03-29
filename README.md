@@ -3,3 +3,6 @@ Primeiro Projeto de GitHub
 
 ## Links Uteis:
 [Sintaxe Basica Markdown](https://www.markdownguide.org/)
+[Plataforma Básica para Estudar Programação](https://www.dio.me/)
+
+
